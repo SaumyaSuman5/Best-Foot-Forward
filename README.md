@@ -1,4 +1,4 @@
-# Saumya
+# Best Foot Forward
 This is a frontend website which uses HTML, CSS and Bootstrap.
 It is the prototype of an e-commerce website where the user can:
 * Login
